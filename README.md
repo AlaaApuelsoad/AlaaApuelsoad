@@ -12,8 +12,7 @@
     <a href="https://www.linkedin.com/in/alaa-apuelsoad/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
     
   </p>
-I am Alaa Apuelsoad, Dynamic and results-driven IBM BPM developer with a strong background in Computer Science, Experience  in developing and deploying business process automation solutions to optimize operations and enhance efficiency. Skilled in utilizing IBM Business Automation Workflow (BAW) to streamline processes and drive organizational growt.
-also, experienced in Java programming, Spring Boot, and RDBMS through self-study projects. Demonstrated ability to tackle projects independently with a focus on efficiency and quality.Committed to continuous learning and staying updated with the latest advancements in Java technology.
+I am Alaa Apuelsoad, Dynamic and results-driven Software Engineer with a solid foundation in Computer Science. Specializing in Java back-end development using Spring Boot, with a focus on building robust and scalable RESTful APIs. Experienced in database integration, particularly with RDBMS, Committed to continuous learning and staying up-to-date with industry best practices. 
   <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
   
 ## 🧰 &nbsp;My toolbox
